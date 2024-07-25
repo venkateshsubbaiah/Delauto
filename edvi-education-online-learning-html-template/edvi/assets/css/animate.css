@@ -22,6 +22,10 @@
   -webkit-animation-iteration-count: infinite;
   animation-iteration-count: infinite;
 }
+
+git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
 .animate__animated.animate__repeat-1 {
   -webkit-animation-iteration-count: 1;
   animation-iteration-count: 1;
