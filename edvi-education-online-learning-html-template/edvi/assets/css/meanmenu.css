@@ -23,7 +23,7 @@ a.meanmenu-reveal {
     position: absolute;
     right: 0;
     cursor: pointer;
-    color: #1d42d9;
+    color: #48BBB6;
     text-decoration: none;
     font-size: 16px;
     text-indent: -9999em;
@@ -35,7 +35,7 @@ a.meanmenu-reveal {
 
 .mean-container a.meanmenu-reveal span {
     display: block;
-    background: #1d42d9;
+    background: #48BBB6;
     height: 4px;
     margin-top: 3px;
     border-radius: 3px;
