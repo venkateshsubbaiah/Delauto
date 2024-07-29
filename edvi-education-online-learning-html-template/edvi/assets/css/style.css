@@ -730,7 +730,7 @@ a.scroll-top i {
   background: url(../images/home-bg.jpg);
 }
 .slider-area .single-slider-bg-2 {
-  background: url(../images/home-bg2.png);
+  background: url(../images/home-bg2.jpg);
 }
 
 .service-area {
@@ -910,7 +910,7 @@ a.scroll-top i {
   padding-left: 22px;
 }
 .choose-area .home-choose-content ul li i {
-  color: #6c84e6;
+  color: #48BBB6;
   position: absolute;
   top: 2px;
   left: 0;
