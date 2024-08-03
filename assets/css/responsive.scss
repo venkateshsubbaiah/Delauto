@@ -891,6 +891,9 @@
         a.logo {
             width: 25%;
         }
+        a.logo img {
+            max-width: 50%;
+        }
         top: 0;
         a.said-bar-list {
             display: none;
